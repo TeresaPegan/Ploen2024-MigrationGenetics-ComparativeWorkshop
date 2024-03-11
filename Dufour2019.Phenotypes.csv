@@ -846,7 +846,7 @@ Arremon_brunneinucha;Chestnut-capped-Brush-finch;Arremon_brunneinucha;Chestnut-c
 Arremon_castaneiceps;Olive-Finch;Arremon_castaneiceps;Olive-Finch;Arremon_castaneiceps;PASSERIFORMES;resident;resident;0;144,3240273
 Arremon_crassirostris;Sooty-faced-Finch;Arremon_crassirostris;Sooty-faced-Finch;Arremon_crassirostris;PASSERIFORMES;resident;resident;0;54,92512269
 Arremon_flavirostris;Saffron-billed-Sparrow;Arremon_flavirostris;Saffron-billed-Sparrow;Arremon_flavirostris;PASSERIFORMES;resident;resident;0;396,3526475
-Arremon_franciscanus;Sao-Francisco-Sparrow;Arremon_franciscanus;São-Francisco-Sparrow;Arremon_franciscanus;PASSERIFORMES;resident;resident;0;65,90392543
+Arremon_franciscanus;Sao-Francisco-Sparrow;Arremon_franciscanus;SÃ£o-Francisco-Sparrow;Arremon_franciscanus;PASSERIFORMES;resident;resident;0;65,90392543
 Arremon_schlegeli;Golden-winged-Sparrow;Arremon_schlegeli;Golden-winged-Sparrow;Arremon_schlegeli;PASSERIFORMES;resident;resident;0;130,327828
 Arremon_semitorquatus;Half-collared-Sparrow;Arremon_semitorquatus;Half-collared-Sparrow;Arremon_semitorquatus;PASSERIFORMES;resident;resident;0;387,6457408
 Arremon_taciturnus;Pectoral-Sparrow;Arremon_taciturnus;Pectoral-Sparrow;Arremon_taciturnus;PASSERIFORMES;resident;resident;0;317,8863244
@@ -1359,10 +1359,10 @@ Calyptomena_whiteheadi;Whiteheads-Broadbill;Calyptomena_whiteheadi;Whiteheads-Br
 Calyptophilus_frugivorus;Chat-Tanager;Calyptophilus_frugivorus;Eastern-Chat-tanager;Calyptophilus_frugivorus;PASSERIFORMES;resident;resident;0;39,75383984
 Calyptophilus_tertius;Western-Chat-Tanager;Calyptophilus_tertius;Western-Chat-tanager;NA1;PASSERIFORMES;resident;resident;NA;NA
 Calyptorhynchus_banksii;Red-tailed-Black-cockatoo;Calyptorhynchus_banksii;Red-tailed-Black-cockatoo;Calyptorhynchus_banksii;PSITTACIFORMES;resident;resident;0;598,9933043
-Calyptorhynchus_baudinii;Baudinâ€™s-Black-Cockatoo;Zanda_baudinii;Long-billed-Black-cockatoo;Zanda_baudinii;PSITTACIFORMES;partial_mig;short;63,39792126;63,39792126
+Calyptorhynchus_baudinii;BaudinÃ¢Â€Â™s-Black-Cockatoo;Zanda_baudinii;Long-billed-Black-cockatoo;Zanda_baudinii;PSITTACIFORMES;partial_mig;short;63,39792126;63,39792126
 Calyptorhynchus_funereus;Yellow-tailed-Black-cockatoo;Zanda_funerea;Yellow-tailed-Black-cockatoo;Zanda_funerea;PSITTACIFORMES;resident;resident;0;326,4271262
 Calyptorhynchus_lathami;Glossy-Black-cockatoo;Calyptorhynchus_lathami;Glossy-Black-cockatoo;Calyptorhynchus_lathami;PSITTACIFORMES;resident;resident;0;224,8116387
-Calyptorhynchus_latirostris;Carnabyâ€™s-Black-Cockatoo;Zanda_latirostris;Short-billed-Black-cockatoo;Zanda_latirostris;PSITTACIFORMES;strict_mig;short;142,0831471;142,0831471
+Calyptorhynchus_latirostris;CarnabyÃ¢Â€Â™s-Black-Cockatoo;Zanda_latirostris;Short-billed-Black-cockatoo;Zanda_latirostris;PSITTACIFORMES;strict_mig;short;142,0831471;142,0831471
 Calyptura_cristata;Kinglet-Calyptura;Calyptura_cristata;Kinglet-Calyptura;Calyptura_cristata;PASSERIFORMES;resident;resident;0;0
 Camarhynchus_heliobates;Mangrove-Finch;Camarhynchus_heliobates;Mangrove-Finch;Camarhynchus_heliobates;PASSERIFORMES;resident;resident;0;0
 Camarhynchus_pallidus;Woodpecker-Finch;Camarhynchus_pallidus;Woodpecker-Finch;Camarhynchus_pallidus;PASSERIFORMES;resident;resident;0;37,10412796
@@ -2441,7 +2441,7 @@ Cossypha_isabellae;Mountain-Robin-chat;Cossypha_isabellae;Mountain-Robin-chat;Co
 Cossypha_natalensis;Red-capped-Robin-chat;Cossypha_natalensis;Rufous-capped-Robin-chat;Cossypha_natalensis;PASSERIFORMES;resident;resident;0;605,7077398
 Cossypha_niveicapilla;Snowy-crowned-Robin-chat;Cossypha_niveicapilla;Snowy-crowned-Robin-chat;Cossypha_niveicapilla;PASSERIFORMES;resident;resident;0;672,2852524
 Cossypha_polioptera;Grey-winged-Robin-chat;Sheppardia_polioptera;Grey-winged-Akalat;Cossypha_polioptera;PASSERIFORMES;resident;resident;0;368,9571964
-Cossypha_semirufa;Rueppells-Robin-chat;Cossypha_semirufa;Rüppells-Robin-chat;Cossypha_semirufa;PASSERIFORMES;resident;resident;0;256,5079992
+Cossypha_semirufa;Rueppells-Robin-chat;Cossypha_semirufa;RÃ¼ppells-Robin-chat;Cossypha_semirufa;PASSERIFORMES;resident;resident;0;256,5079992
 Cossyphicula_roberti;White-bellied-Robin-chat;Cossyphicula_roberti;African-Flycatcher-chat;Cossyphicula_roberti;PASSERIFORMES;resident;resident;0;99,28182919
 Cotinga_amabilis;Lovely-Cotinga;Cotinga_amabilis;Lovely-Cotinga;Cotinga_amabilis;PASSERIFORMES;resident;resident;0;179,3996741
 Cotinga_cayana;Spangled-Cotinga;Cotinga_cayana;Spangled-Cotinga;Cotinga_cayana;PASSERIFORMES;resident;resident;0;627,5724769
@@ -2661,7 +2661,7 @@ Cyornis_omissus;Sulawesi-Blue-flycatcher;Cyornis_rufigastra;Mangrove-Blue-flycat
 Cyornis_pallipes;White-bellied-Blue-flycatcher;Cyornis_pallipes;White-bellied-Blue-flycatcher;Cyornis_pallipes;PASSERIFORMES;resident;resident;0;81,96917433
 Cyornis_poliogenys;Pale-chinned-Blue-flycatcher;Cyornis_poliogenys;Pale-chinned-Flycatcher;Cyornis_poliogenys;PASSERIFORMES;resident;resident;0;223,4739765
 Cyornis_rubeculoides;Blue-throated-Flycatcher;Cyornis_rubeculoides;Blue-throated-Blue-flycatcher;Cyornis_rubeculoides;PASSERIFORMES;partial_mig;short;861,0217762;861,0217762
-Cyornis_ruckii;Ruecks-Blue-flycatcher;Cyornis_ruckii;Rücks-Blue-flycatcher;Cyornis_ruckii;PASSERIFORMES;resident;resident;0;26,1122636
+Cyornis_ruckii;Ruecks-Blue-flycatcher;Cyornis_ruckii;RÃ¼cks-Blue-flycatcher;Cyornis_ruckii;PASSERIFORMES;resident;resident;0;26,1122636
 Cyornis_sanfordi;Matinan-Flycatcher;Cyornis_sanfordi;Matinan-Blue-flycatcher;Cyornis_sanfordi;PASSERIFORMES;resident;resident;0;37,10387872
 Cyornis_superbus;Bornean-Blue-flycatcher;Cyornis_superbus;Bornean-Blue-flycatcher;Cyornis_superbus;PASSERIFORMES;resident;resident;0;223,4000206
 Cyornis_tickelliae;Tickells-Blue-flycatcher;Cyornis_tickelliae;Tickells-Blue-flycatcher;Cyornis_tickelliae;PASSERIFORMES;resident;resident;0;526,638549
@@ -3955,7 +3955,7 @@ Gyps_coprotheres;Cape-Vulture;Gyps_coprotheres;Cape-Vulture;Gyps_coprotheres;ACC
 Gyps_fulvus;Griffon-Vulture;Gyps_fulvus;Griffon-Vulture;Gyps_fulvus;ACCIPITRIFORMES;partial_mig;variable;1256,375404;1256,375404
 Gyps_himalayensis;Himalayan-Vulture;Gyps_himalayensis;Himalayan-Griffon;Gyps_himalayensis;ACCIPITRIFORMES;resident;resident;0;507,6218442
 Gyps_indicus;Indian-Vulture;Gyps_indicus;Indian-Vulture;Gyps_indicus;ACCIPITRIFORMES;resident;resident;0;380,4291527
-Gyps_rueppellii;Rueppells-Vulture;Gyps_rueppelli;Rüppells-Vulture;Gyps_rueppelli;ACCIPITRIFORMES;resident;resident;0;148,6332369
+Gyps_rueppellii;Rueppells-Vulture;Gyps_rueppelli;RÃ¼ppells-Vulture;Gyps_rueppelli;ACCIPITRIFORMES;resident;resident;0;148,6332369
 Gyps_tenuirostris;Slender-billed-Vulture;Gyps_tenuirostris;Slender-billed-Vulture;Gyps_tenuirostris;ACCIPITRIFORMES;resident;resident;0;786,5039575
 Gypsophila_crispifrons;Limestone-Wren-babbler;Gypsophila_crispifrons;Limestone-Wren-babbler;Gypsophila_crispifrons;PASSERIFORMES;resident;resident;0;286,1686524
 Habia_atrimaxillaris;Black-cheeked-Ant-tanager;Habia_atrimaxillaris;Black-cheeked-Ant-tanager;Habia_atrimaxillaris;PASSERIFORMES;resident;resident;0;18,34198978
@@ -4493,7 +4493,7 @@ Lamprotornis_ornatus;Principe-Glossy-starling;Lamprotornis_ornatus;Principe-Glos
 Lamprotornis_pulcher;Chestnut-bellied-Starling;Lamprotornis_pulcher;Chestnut-bellied-Starling;Lamprotornis_pulcher;PASSERIFORMES;resident;resident;0;567,1916513
 Lamprotornis_purpureiceps;Purple-headed-Glossy-starling;Hylopsar_purpureiceps;Purple-headed-Glossy-Starling;Lamprotornis_purpureiceps;PASSERIFORMES;resident;resident;0;395,7102729
 Lamprotornis_purpureus;Purple-Glossy-starling;Lamprotornis_purpureus;Purple-Glossy-Starling;Lamprotornis_purpureus;PASSERIFORMES;resident;resident;0;543,6803216
-Lamprotornis_purpuroptera;Rueppells-Glossy-starling;Lamprotornis_purpuroptera;Rüppells-Glossy-Starling;Lamprotornis_purpuroptera;PASSERIFORMES;resident;resident;0;428,6638964
+Lamprotornis_purpuroptera;Rueppells-Glossy-starling;Lamprotornis_purpuroptera;RÃ¼ppells-Glossy-Starling;Lamprotornis_purpuroptera;PASSERIFORMES;resident;resident;0;428,6638964
 Lamprotornis_shelleyi;Shelleys-Starling;Lamprotornis_shelleyi;Shelleys-Starling;Lamprotornis_shelleyi;PASSERIFORMES;strict_mig;short;761,2829096;761,2829096
 Lamprotornis_splendidus;Splendid-Glossy-starling;Lamprotornis_splendidus;Splendid-Glossy-Starling;Lamprotornis_splendidus;PASSERIFORMES;resident;resident;0;561,7574887
 Lamprotornis_superbus;Superb-Starling;Lamprotornis_superbus;Superb-Starling;Lamprotornis_superbus;PASSERIFORMES;resident;resident;0;379,3058803
@@ -4506,10 +4506,10 @@ Laniarius_bicolor;Gabon-Boubou;Laniarius_bicolor;Swamp-Boubou;Laniarius_bicolor;
 Laniarius_brauni;Orange-breasted-Bush-shrike;Laniarius_brauni;Brauns-Bush-shrike;Laniarius_brauni;PASSERIFORMES;resident;resident;0;18,43398514
 Laniarius_erythrogaster;Black-headed-Gonolek;Laniarius_erythrogaster;Black-headed-Gonolek;Laniarius_erythrogaster;PASSERIFORMES;resident;resident;0;425,3788479
 Laniarius_ferrugineus;Southern-Boubou;Laniarius_ferrugineus;Southern-Boubou;Laniarius_ferrugineus;PASSERIFORMES;resident;resident;0;256,5093435
-Laniarius_fuelleborni;Fuelleborns-Boubou;Laniarius_fuelleborni;Fülleborns-Boubou;Laniarius_fuelleborni;PASSERIFORMES;resident;resident;0;107,0468267
+Laniarius_fuelleborni;Fuelleborns-Boubou;Laniarius_fuelleborni;FÃ¼lleborns-Boubou;Laniarius_fuelleborni;PASSERIFORMES;resident;resident;0;107,0468267
 Laniarius_funebris;Slate-coloured-Boubou;Laniarius_funebris;Slate-coloured-Boubou;Laniarius_funebris;PASSERIFORMES;resident;resident;0;357,5516981
 Laniarius_leucorhynchus;Sooty-Boubou;Laniarius_leucorhynchus;Sooty-Boubou;Laniarius_leucorhynchus;PASSERIFORMES;resident;resident;0;445,604507
-Laniarius_luehderi;Luehders-Bush-shrike;Laniarius_luehderi;Lühders-Bush-shrike;Laniarius_luehderi;PASSERIFORMES;resident;resident;0;313,5668323
+Laniarius_luehderi;Luehders-Bush-shrike;Laniarius_luehderi;LÃ¼hders-Bush-shrike;Laniarius_luehderi;PASSERIFORMES;resident;resident;0;313,5668323
 Laniarius_mufumbiri;Papyrus-Gonolek;Laniarius_mufumbiri;Papyrus-Gonolek;Laniarius_mufumbiri;PASSERIFORMES;resident;resident;0;112,8344569
 Laniarius_poensis;Mountain-Boubou;Laniarius_poensis;Mountain-Boubou;Laniarius_poensis;PASSERIFORMES;resident;resident;0;134,2327907
 Laniarius_ruficeps;Red-naped-Bush-shrike;Laniarius_ruficeps;Red-naped-Bush-shrike;Laniarius_ruficeps;PASSERIFORMES;resident;resident;0;256,1747054
@@ -4935,7 +4935,7 @@ Macronyx_aurantiigula;Pangani-Longclaw;Macronyx_aurantiigula;Pangani-Longclaw;Ma
 Macronyx_capensis;Cape-Longclaw;Macronyx_capensis;Cape-Longclaw;Macronyx_capensis;PASSERIFORMES;resident;resident;0;261,249759
 Macronyx_croceus;Yellow-throated-Longclaw;Macronyx_croceus;Yellow-throated-Longclaw;Macronyx_croceus;PASSERIFORMES;resident;resident;0;862,0939894
 Macronyx_flavicollis;Abyssinian-Longclaw;Macronyx_flavicollis;Abyssinian-Longclaw;Macronyx_flavicollis;PASSERIFORMES;resident;resident;0;164,4645906
-Macronyx_fuellebornii;Fuelleborns-Longclaw;Macronyx_fuellebornii;Fülleborns-Longclaw;Macronyx_fuellebornii;PASSERIFORMES;resident;resident;0;369,9845134
+Macronyx_fuellebornii;Fuelleborns-Longclaw;Macronyx_fuellebornii;FÃ¼lleborns-Longclaw;Macronyx_fuellebornii;PASSERIFORMES;resident;resident;0;369,9845134
 Macronyx_grimwoodi;Grimwoods-Longclaw;Macronyx_grimwoodi;Grimwoods-Longclaw;Macronyx_grimwoodi;PASSERIFORMES;resident;resident;0;214,5713937
 Macronyx_sharpei;Sharpes-Longclaw;Hemimacronyx_sharpei;Sharpes-Longclaw;Macronyx_sharpei;PASSERIFORMES;resident;resident;0;18,55206398
 Macropsalis_forcipata;Long-trained-Nightjar;Macropsalis_forcipata;Long-trained-Nightjar;Macropsalis_forcipata;CAPRIMULGIFORMES;resident;resident;0;202,3352678
@@ -5246,7 +5246,7 @@ Mergus_squamatus;Scaly-sided-Merganser;Mergus_squamatus;Scaly-sided-Merganser;Me
 Meropogon_forsteni;Purple-bearded-Bee-eater;Meropogon_forsteni;Purple-bearded-Bee-eater;Meropogon_forsteni;CORACIIFORMES;resident;resident;0;123,7739105
 Merops_albicollis;White-throated-Bee-eater;Merops_albicollis;White-throated-Bee-eater;Merops_albicollis;CORACIIFORMES;strict_mig;short;1327,095097;1327,095097
 Merops_apiaster;European-Bee-eater;Merops_apiaster;European-Bee-eater;Merops_apiaster;CORACIIFORMES;strict_mig;long;5775,076371;5775,076371
-Merops_boehmi;Boehms-Bee-eater;Merops_boehmi;Böhms-Bee-eater;Merops_boehmi;CORACIIFORMES;resident;resident;0;271,4854465
+Merops_boehmi;Boehms-Bee-eater;Merops_boehmi;BÃ¶hms-Bee-eater;Merops_boehmi;CORACIIFORMES;resident;resident;0;271,4854465
 Merops_breweri;Black-headed-Bee-eater;Merops_breweri;Black-headed-Bee-eater;Merops_breweri;CORACIIFORMES;resident;resident;0;369,4465898
 Merops_bullockoides;White-fronted-Bee-eater;Merops_bullockoides;White-fronted-Bee-eater;Merops_bullockoides;CORACIIFORMES;resident;resident;0;622,7189119
 Merops_bulocki;Red-throated-Bee-eater;Merops_bulocki;Red-throated-Bee-eater;Merops_bulocki;CORACIIFORMES;resident;resident;0;519,7228427
@@ -5491,7 +5491,7 @@ Mulleripicus_funebris;Sooty-Woodpecker;Mulleripicus_funebris;Northern-Sooty-Wood
 Mulleripicus_pulverulentus;Great-Slaty-Woodpecker;Mulleripicus_pulverulentus;Great-Slaty-Woodpecker;Mulleripicus_pulverulentus;PICIFORMES;resident;resident;0;550,9035858
 Muscicapa_adusta;African-Dusky-Flycatcher;Muscicapa_adusta;African-Dusky-Flycatcher;Muscicapa_adusta;PASSERIFORMES;resident;resident;0;632,0823246
 Muscicapa_aquatica;Swamp-Flycatcher;Muscicapa_aquatica;Swamp-Flycatcher;Muscicapa_aquatica;PASSERIFORMES;resident;resident;0;537,2397226
-Muscicapa_boehmi;Boehms-Flycatcher;Muscicapa_boehmi;Böhms-Flycatcher;Muscicapa_boehmi;PASSERIFORMES;resident;resident;0;271,3072871
+Muscicapa_boehmi;Boehms-Flycatcher;Muscicapa_boehmi;BÃ¶hms-Flycatcher;Muscicapa_boehmi;PASSERIFORMES;resident;resident;0;271,3072871
 Muscicapa_caerulescens;Ashy-Flycatcher;Muscicapa_caerulescens;Ashy-Flycatcher;Muscicapa_caerulescens;PASSERIFORMES;resident;resident;0;756,9119631
 Muscicapa_cassini;Cassins-Grey-Flycatcher;Muscicapa_cassini;Cassins-Flycatcher;Muscicapa_cassini;PASSERIFORMES;resident;resident;0;534,7704599
 Muscicapa_comitata;Dusky-blue-Flycatcher;Muscicapa_comitata;Dusky-blue-Flycatcher;Muscicapa_comitata;PASSERIFORMES;resident;resident;0;521,3224899
@@ -5676,7 +5676,7 @@ Myrmecocichla_albifrons;White-fronted-Black-chat;Pentholaea_albifrons;White-fron
 Myrmecocichla_arnoti;White-headed-Black-chat;Pentholaea_arnotti;White-headed-Black-chat;Myrmecocichla_arnoti;PASSERIFORMES;resident;resident;0;472,7729741
 Myrmecocichla_cinnamomeiventris;Mocking-Cliff-chat;Thamnolaea_cinnamomeiventris;Mocking-Cliff-chat;Thamnolaea_cinnamomeiventris;PASSERIFORMES;resident;resident;0;670,1936272
 Myrmecocichla_formicivora;Southern-Anteater-chat;Myrmecocichla_formicivora;Southern-Anteater-chat;Myrmecocichla_formicivora;PASSERIFORMES;resident;resident;0;363,1114209
-Myrmecocichla_melaena;Rueppells-Chat;Myrmecocichla_melaena;Rüppells-Black-chat;Myrmecocichla_melaena;PASSERIFORMES;resident;resident;0;134,1339332
+Myrmecocichla_melaena;Rueppells-Chat;Myrmecocichla_melaena;RÃ¼ppells-Black-chat;Myrmecocichla_melaena;PASSERIFORMES;resident;resident;0;134,1339332
 Myrmecocichla_nigra;Sooty-Chat;Myrmecocichla_nigra;Sooty-Chat;Myrmecocichla_nigra;PASSERIFORMES;resident;resident;0;618,2071269
 Myrmecocichla_semirufa;White-winged-Cliff-chat;Thamnolaea_semirufa;White-winged-Cliff-chat;Monticola_semirufus;PASSERIFORMES;resident;resident;0;169,7212682
 Myrmecocichla_tholloni;Congo-Moor-chat;Myrmecocichla_tholloni;Congo-Moor-chat;Myrmecocichla_tholloni;PASSERIFORMES;resident;resident;0;184,293741
@@ -5762,7 +5762,7 @@ Napothera_brevicaudata;Streaked-Wren-babbler;Napothera_brevicaudata;Streaked-Wre
 Napothera_crassa;Mountain-Wren-babbler;Napothera_crassa;Mountain-Wren-babbler;Napothera_crassa;PASSERIFORMES;resident;resident;0;66,56206591
 Napothera_epilepidota;Eyebrowed-Wren-babbler;Napothera_epilepidota;Eyebrowed-Wren-babbler;Napothera_epilepidota;PASSERIFORMES;resident;resident;0;525,2294875
 Nasica_longirostris;Long-billed-Woodcreeper;Nasica_longirostris;Long-billed-Woodcreeper;Nasica_longirostris;PASSERIFORMES;resident;resident;0;592,4548064
-Neafrapus_boehmi;Bat-like-Spinetail;Neafrapus_boehmi;Böhms-Spinetail;Neafrapus_boehmi;CAPRIMULGIFORMES;resident;resident;0;445,2681129
+Neafrapus_boehmi;Bat-like-Spinetail;Neafrapus_boehmi;BÃ¶hms-Spinetail;Neafrapus_boehmi;CAPRIMULGIFORMES;resident;resident;0;445,2681129
 Neafrapus_cassini;Cassins-Spinetail;Neafrapus_cassini;Cassins-Spinetail;Neafrapus_cassini;CAPRIMULGIFORMES;resident;resident;0;416,5660883
 Necrosyrtes_monachus;Hooded-Vulture;Necrosyrtes_monachus;Hooded-Vulture;Necrosyrtes_monachus;ACCIPITRIFORMES;resident;resident;0;963,3381925
 Nectarinia_adelberti;Buff-throated-Sunbird;Chalcomitra_adelberti;Buff-throated-Sunbird;Nectarinia_adelberti;PASSERIFORMES;resident;resident;0;265,9622665
@@ -6807,7 +6807,7 @@ Phoeniculus_somaliensis;Black-billed-Woodhoopoe;Phoeniculus_somaliensis;Black-bi
 Phoenicurus_alaschanicus;Ala-Shan-Redstart;Phoenicurus_alaschanicus;Przevalskis-Redstart;Phoenicurus_alaschanicus;PASSERIFORMES;strict_mig;short;635,338787;635,338787
 Phoenicurus_auroreus;Daurian-Redstart;Phoenicurus_auroreus;Daurian-Redstart;Phoenicurus_auroreus;PASSERIFORMES;strict_mig;variable;1509,016169;1509,016169
 Phoenicurus_caeruleocephala;Blue-capped-Redstart;Phoenicurus_caeruleocephala;Blue-capped-Redstart;Phoenicurus_caeruleocephala;PASSERIFORMES;resident;resident;0;NA
-Phoenicurus_erythrogastrus;White-winged-Redstart;Phoenicurus_erythrogastrus;Güldenstädts-Redstart;Phoenicurus_erythrogastrus;PASSERIFORMES;resident;resident;0;601,3806679
+Phoenicurus_erythrogastrus;White-winged-Redstart;Phoenicurus_erythrogastrus;GÃ¼ldenstÃ¤dts-Redstart;Phoenicurus_erythrogastrus;PASSERIFORMES;resident;resident;0;601,3806679
 Phoenicurus_erythronotus;Rufous-backed-Redstart;Phoenicurus_erythronotus;Eversmanns-Redstart;Phoenicurus_erythronotus;PASSERIFORMES;strict_mig;short;1332,41741;1332,41741
 Phoenicurus_frontalis;Blue-fronted-Redstart;Phoenicurus_frontalis;Blue-fronted-Redstart;Phoenicurus_frontalis;PASSERIFORMES;strict_mig;short;564,8614814;564,8614814
 Phoenicurus_hodgsoni;Hodgsons-Redstart;Phoenicurus_hodgsoni;Hodgsons-Redstart;Phoenicurus_hodgsoni;PASSERIFORMES;strict_mig;short;519,5779413;519,5779413
@@ -7187,7 +7187,7 @@ Ploceus_cucullatus;Village-Weaver;Ploceus_cucullatus;Village-Weaver;Ploceus_cucu
 Ploceus_dichrocephalus;Salvadoris-Weaver;Ploceus_dicrocephalus;Juba-Weaver;Ploceus_dichrocephalus;PASSERIFORMES;resident;resident;0;118,4369454
 Ploceus_dorsomaculatus;Yellow-capped-Weaver;Ploceus_dorsomaculatus;Yellow-capped-Weaver;Ploceus_dorsomaculatus;PASSERIFORMES;resident;resident;0;170,5610143
 Ploceus_flavipes;Yellow-legged-Weaver;Ploceus_flavipes;Yellow-legged-Weaver;Ploceus_flavipes;PASSERIFORMES;resident;resident;0;41,26266072
-Ploceus_galbula;Rueppells-Weaver;Ploceus_galbula;Rüppells-Weaver;Ploceus_galbula;PASSERIFORMES;resident;resident;0;390,9900521
+Ploceus_galbula;Rueppells-Weaver;Ploceus_galbula;RÃ¼ppells-Weaver;Ploceus_galbula;PASSERIFORMES;resident;resident;0;390,9900521
 Ploceus_golandi;Clarkes-Weaver;Ploceus_golandi;Clarkes-Weaver;Ploceus_golandi;PASSERIFORMES;resident;resident;0;18,42957723
 Ploceus_grandis;Giant-Weaver;Ploceus_grandis;Giant-Weaver;Ploceus_grandis;PASSERIFORMES;resident;resident;0;18,42904814
 Ploceus_heuglini;Heuglins-Masked-weaver;Ploceus_heuglini;Heuglins-Masked-Weaver;Ploceus_heuglini;PASSERIFORMES;resident;resident;0;453,7163122
@@ -7299,7 +7299,7 @@ Poicephalus_flavifrons;Yellow-fronted-Parrot;Poicephalus_flavifrons;Yellow-front
 Poicephalus_gulielmi;Red-fronted-Parrot;Poicephalus_gulielmi;Red-fronted-Parrot;Poicephalus_gulielmi;PSITTACIFORMES;resident;resident;0;410,1032512
 Poicephalus_meyeri;Meyers-Parrot;Poicephalus_meyeri;Brown-Parrot;Poicephalus_meyeri;PSITTACIFORMES;resident;resident;0;666,2378953
 Poicephalus_robustus;Brown-necked-Parrot;Poicephalus_robustus;Brown-necked-Parrot;Poicephalus_robustus;PSITTACIFORMES;resident;resident;0;574,2368213
-Poicephalus_rueppellii;Rueppells-Parrot;Poicephalus_rueppellii;Rüppells-Parrot;Poicephalus_rueppellii;PSITTACIFORMES;resident;resident;0;209,0320447
+Poicephalus_rueppellii;Rueppells-Parrot;Poicephalus_rueppellii;RÃ¼ppells-Parrot;Poicephalus_rueppellii;PSITTACIFORMES;resident;resident;0;209,0320447
 Poicephalus_rufiventris;Red-bellied-Parrot;Poicephalus_rufiventris;Red-bellied-Parrot;Poicephalus_rufiventris;PSITTACIFORMES;resident;resident;0;331,0360024
 Poicephalus_senegalus;Senegal-Parrot;Poicephalus_senegalus;Senegal-Parrot;Poicephalus_senegalus;PSITTACIFORMES;resident;resident;0;432,3164074
 Polemaetus_bellicosus;Martial-Eagle;Polemaetus_bellicosus;Martial-Eagle;Polemaetus_bellicosus;ACCIPITRIFORMES;resident;resident;0;1071,150794
@@ -7647,17 +7647,17 @@ Pterodroma_pycrofti;Pycrofts-Petrel;Pterodroma_pycrofti;Pycrofts-Petrel;Pterodro
 Pterodroma_sandwichensis;Hawaiian-Petrel;Pterodroma_sandwichensis;Hawaiian-Petrel;Pterodroma_sandwichensis;PROCELLARIIFORMES;strict_mig;variable;1037,242176;1037,242176
 Pterodroma_solandri;Providence-Petrel;Pterodroma_solandri;Providence-Petrel;Pterodroma_solandri;PROCELLARIIFORMES;strict_mig;variable;2013,117322;2013,117322
 Pterodroma_ultima;Murphys-Petrel;Pterodroma_ultima;Murphys-Petrel;Pterodroma_ultima;PROCELLARIIFORMES;strict_mig;long;1648,708385;1648,708385
-Pteroglossus_aracari;Black-necked-Aracari;Pteroglossus_aracari;Black-necked-Araçari;Pteroglossus_aracari;PICIFORMES;resident;resident;0;513,3327397
-Pteroglossus_azara;Ivory-billed-Aracari;Pteroglossus_azara;Ivory-billed-Araçari;Pteroglossus_azara;PICIFORMES;resident;resident;0;445,4740154
+Pteroglossus_aracari;Black-necked-Aracari;Pteroglossus_aracari;Black-necked-AraÃ§ari;Pteroglossus_aracari;PICIFORMES;resident;resident;0;513,3327397
+Pteroglossus_azara;Ivory-billed-Aracari;Pteroglossus_azara;Ivory-billed-AraÃ§ari;Pteroglossus_azara;PICIFORMES;resident;resident;0;445,4740154
 Pteroglossus_bailloni;Saffron-Toucanet;Pteroglossus_bailloni;Saffron-Toucanet;Pteroglossus_bailloni;PICIFORMES;resident;resident;0;231,4337323
-Pteroglossus_beauharnaesii;Curl-crested-Aracari;Pteroglossus_beauharnaesii;Curl-crested-Araçari;Pteroglossus_beauharnaesii;PICIFORMES;resident;resident;0;363,4683367
-Pteroglossus_bitorquatus;Red-necked-Aracari;Pteroglossus_bitorquatus;Eastern-Red-necked-Araçari;Pteroglossus_bitorquatus;PICIFORMES;resident;resident;0;240,3100766
-Pteroglossus_castanotis;Chestnut-eared-Aracari;Pteroglossus_castanotis;Chestnut-eared-Araçari;Pteroglossus_castanotis;PICIFORMES;resident;resident;0;589,2950461
-Pteroglossus_frantzii;Fiery-billed-Aracari;Pteroglossus_frantzii;Fiery-billed-Araçari;Pteroglossus_frantzii;PICIFORMES;resident;resident;0;52,00818725
-Pteroglossus_inscriptus;Lettered-Aracari;Pteroglossus_inscriptus;Lettered-Araçari;Pteroglossus_inscriptus;PICIFORMES;resident;resident;0;432,869626
-Pteroglossus_pluricinctus;Many-banded-Aracari;Pteroglossus_pluricinctus;Many-banded-Araçari;Pteroglossus_pluricinctus;PICIFORMES;resident;resident;0;333,7923117
-Pteroglossus_torquatus;Collared-Aracari;Pteroglossus_torquatus;Collared-Araçari;Pteroglossus_torquatus;PICIFORMES;resident;resident;0;330,4436588
-Pteroglossus_viridis;Green-Aracari;Pteroglossus_viridis;Green-Araçari;Pteroglossus_viridis;PICIFORMES;resident;resident;0;313,8439044
+Pteroglossus_beauharnaesii;Curl-crested-Aracari;Pteroglossus_beauharnaesii;Curl-crested-AraÃ§ari;Pteroglossus_beauharnaesii;PICIFORMES;resident;resident;0;363,4683367
+Pteroglossus_bitorquatus;Red-necked-Aracari;Pteroglossus_bitorquatus;Eastern-Red-necked-AraÃ§ari;Pteroglossus_bitorquatus;PICIFORMES;resident;resident;0;240,3100766
+Pteroglossus_castanotis;Chestnut-eared-Aracari;Pteroglossus_castanotis;Chestnut-eared-AraÃ§ari;Pteroglossus_castanotis;PICIFORMES;resident;resident;0;589,2950461
+Pteroglossus_frantzii;Fiery-billed-Aracari;Pteroglossus_frantzii;Fiery-billed-AraÃ§ari;Pteroglossus_frantzii;PICIFORMES;resident;resident;0;52,00818725
+Pteroglossus_inscriptus;Lettered-Aracari;Pteroglossus_inscriptus;Lettered-AraÃ§ari;Pteroglossus_inscriptus;PICIFORMES;resident;resident;0;432,869626
+Pteroglossus_pluricinctus;Many-banded-Aracari;Pteroglossus_pluricinctus;Many-banded-AraÃ§ari;Pteroglossus_pluricinctus;PICIFORMES;resident;resident;0;333,7923117
+Pteroglossus_torquatus;Collared-Aracari;Pteroglossus_torquatus;Collared-AraÃ§ari;Pteroglossus_torquatus;PICIFORMES;resident;resident;0;330,4436588
+Pteroglossus_viridis;Green-Aracari;Pteroglossus_viridis;Green-AraÃ§ari;Pteroglossus_viridis;PICIFORMES;resident;resident;0;313,8439044
 Pteronetta_hartlaubii;Hartlaubs-Duck;Pteronetta_hartlaubii;Hartlaubs-Duck;Pteronetta_hartlaubii;ANSERIFORMES;resident;resident;0;557,151505
 Pterophanes_cyanopterus;Great-Sapphirewing;Pterophanes_cyanopterus;Great-Sapphirewing;Pterophanes_cyanopterus;CAPRIMULGIFORMES;resident;resident;0;287,6463425
 Pteroptochos_castaneus;Chestnut-throated-Huet-huet;Pteroptochos_castaneus;Chestnut-throated-Huet-huet;Pteroptochos_castaneus;PASSERIFORMES;resident;resident;0;59,99496005
@@ -8230,7 +8230,7 @@ Seicercus_grammiceps;Sunda-Warbler;Seicercus_grammiceps;Sunda-Warbler;Seicercus_
 Seicercus_montis;Yellow-breasted-Warbler;Seicercus_montis;Yellow-breasted-Warbler;Seicercus_montis;PASSERIFORMES;resident;resident;0;315,0575639
 Seicercus_omeiensis;Martenss-Warbler;Seicercus_omeiensis;Martenss-Warbler;Seicercus_omeiensis;PASSERIFORMES;strict_mig;variable;1311,233128;1311,233128
 Seicercus_poliogenys;Grey-cheeked-Warbler;Seicercus_poliogenys;Grey-cheeked-Warbler;Seicercus_poliogenys;PASSERIFORMES;resident;resident;0;319,5513453
-Seicercus_soror;Alstroms-Warbler;Seicercus_soror;Alströms-Warbler;Seicercus_soror;PASSERIFORMES;strict_mig;variable;1613,098704;1613,098704
+Seicercus_soror;Alstroms-Warbler;Seicercus_soror;AlstrÃ¶ms-Warbler;Seicercus_soror;PASSERIFORMES;strict_mig;variable;1613,098704;1613,098704
 Seicercus_tephrocephalus;Grey-crowned-Warbler;Seicercus_tephrocephalus;Grey-crowned-Warbler;Seicercus_tephrocephalus;PASSERIFORMES;strict_mig;long;770,3591699;770,3591699
 Seicercus_valentini;Bianchis-Warbler;Seicercus_valentini;Bianchis-Warbler;Seicercus_valentini;PASSERIFORMES;strict_mig;short;776,2661541;776,2661541
 Seicercus_whistleri;Whistlers-Warbler;Seicercus_whistleri;Whistlers-Warbler;Seicercus_whistleri;PASSERIFORMES;partial_mig;short;311,5152102;311,5152102
@@ -8686,7 +8686,7 @@ Sylvia_minula;Small-Whitethroat;Sylvia_minula;Small-Whitethroat;Sylvia_minula;PA
 Sylvia_mystacea;Menetriess-Warbler;Sylvia_mystacea;Menetriess-Warbler;Sylvia_mystacea;PASSERIFORMES;strict_mig;variable;1725,548096;1725,548096
 Sylvia_nana;Desert-Warbler;Sylvia_nana;Desert-Warbler;Sylvia_nana;PASSERIFORMES;partial_mig;variable;2281,055533;2281,055533
 Sylvia_nisoria;Barred-Warbler;Sylvia_nisoria;Barred-Warbler;Sylvia_nisoria;PASSERIFORMES;strict_mig;long;5240,618896;5240,618896
-Sylvia_rueppelli;Rueppells-Warbler;Sylvia_rueppelli;Rüppells-Warbler;Sylvia_rueppelli;PASSERIFORMES;strict_mig;short;1836,023005;1836,023005
+Sylvia_rueppelli;Rueppells-Warbler;Sylvia_rueppelli;RÃ¼ppells-Warbler;Sylvia_rueppelli;PASSERIFORMES;strict_mig;short;1836,023005;1836,023005
 Sylvia_sarda;Marmoras-Warbler;Sylvia_sarda;Marmoras-Warbler;Sylvia_sarda;PASSERIFORMES;partial_mig;short;516,0436525;516,0436525
 Sylvia_subcaerulea;Rufous-vented-Warbler;Sylvia_subcaerulea;Chestnut-vented-Warbler;Sylvia_subcaerulea;PASSERIFORMES;resident;resident;0;440,4343788
 Sylvia_undata;Dartford-Warbler;Sylvia_undata;Dartford-Warbler;Sylvia_undata;PASSERIFORMES;partial_mig;short;640,944866;640,944866
@@ -9724,7 +9724,7 @@ Zoothera_mendeni;Red-and-black-Thrush;Zoothera_mendeni;Red-and-black-Thrush;Zoot
 Zoothera_mollissima;Plain-backed-Thrush;Zoothera_mollissima;Plain-backed-Thrush;Zoothera_mollissima;PASSERIFORMES;resident;resident;0;266,3561525
 Zoothera_monticola;Long-billed-Thrush;Zoothera_monticola;Long-billed-Thrush;Zoothera_monticola;PASSERIFORMES;resident;resident;0;259,9000165
 Zoothera_naevia;Varied-Thrush;Ixoreus_naevius;Varied-Thrush;Zoothera_naevia;PASSERIFORMES;partial_mig;variable;1049,744027;1049,744027
-Zoothera_oberlaenderi;Forest-Ground-thrush;Zoothera_oberlaenderi;Oberländers-Ground-thrush;Zoothera_oberlaenderi;PASSERIFORMES;resident;resident;0;76,01378962
+Zoothera_oberlaenderi;Forest-Ground-thrush;Zoothera_oberlaenderi;OberlÃ¤nders-Ground-thrush;Zoothera_oberlaenderi;PASSERIFORMES;resident;resident;0;76,01378962
 Zoothera_peronii;Orange-banded-Thrush;Zoothera_peronii;Orange-banded-Thrush;Zoothera_peronii;PASSERIFORMES;resident;resident;0;75,43867073
 Zoothera_piaggiae;Abyssinian-Ground-thrush;Zoothera_piaggiae;Abyssinian-Ground-thrush;Zoothera_piaggiae;PASSERIFORMES;resident;resident;0;256,6386228
 Zoothera_pinicola;Aztec-Thrush;Ridgwayia_pinicola;Aztec-Thrush;Zoothera_pinicola;PASSERIFORMES;resident;resident;0;196,8546912
