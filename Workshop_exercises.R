@@ -28,7 +28,7 @@ install_and_load("caper")
 install_and_load("phytools")
 install_and_load("nlme")
 install_and_load("ggnewscale")
-install_and_load("AICcmodavg")
+
 
 
 ############################################################################################################
