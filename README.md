@@ -9,7 +9,7 @@ To follow the R examples in the workshop, please install R and/or RStudio and th
 * phytools
 * nlme
 * ggnewscale
-* AICcmodavg
+
 
 There are also instructions for installing the packages in the R script. 
 
