@@ -176,7 +176,7 @@ ggtree(tree1) %>% rotate(9) + geom_tiplab(size=6, aes(color=label)) + ggplot2::x
 tree <- read.tree("TreeCharadriiformes_2023_GEBrev_AllSpeciesAdded_consensus.tree")
 
 #For ancestral phenotype reconstruction we first need a phenotype!
-pheno <- read.csv2("Dofour2019.Phenotypes.csv",header = TRUE)
+pheno <- read.csv2("Dufour2019.Phenotypes.csv",header = TRUE)
 head(pheno)
 
 
